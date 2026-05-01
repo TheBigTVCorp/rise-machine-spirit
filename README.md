@@ -142,12 +142,14 @@ python examples\embed_and_extract.py
 It creates a synthetic 10-second pink-noise WAV, embeds a generated PNG,
 extracts it again, and writes a spectrogram diff under `examples\out`.
 
-## Whitepaper Draft
+## Whitepaper
 
-See [docs/whitepaper.md](docs/whitepaper.md) for a practitioner-facing draft
-framed around defanged audio-steganography emulation for red and purple teams.
-See [REPRODUCE.md](REPRODUCE.md) for manual reproduction commands and artifact
-hashing.
+The reference paper covers the engine design, threat model, reproduction
+recipe, and detection considerations. It will be published on Zenodo
+[paper DOI to be added after publication].
+
+See [REPRODUCE.md](REPRODUCE.md) for manual reproduction commands and
+artifact hashing.
 
 ## AI-Assisted Development Note
 
