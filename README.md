@@ -145,8 +145,8 @@ extracts it again, and writes a spectrogram diff under `examples\out`.
 ## Whitepaper
 
 The reference paper covers the engine design, threat model, reproduction
-recipe, and detection considerations. It will be published on Zenodo
-[paper DOI to be added after publication].
+recipe, and detection considerations. It is published on Zenodo:
+[10.5281/zenodo.19934395](https://doi.org/10.5281/zenodo.19934395).
 
 See [REPRODUCE.md](REPRODUCE.md) for manual reproduction commands and
 artifact hashing.
