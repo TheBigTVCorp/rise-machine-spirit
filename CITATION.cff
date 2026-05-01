@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Rise Machine Spirit"
+message: "If you use this software or reproduce the demo, please cite it as below."
+type: software
+authors:
+  - name: "Jacob Halaas"
+version: "0.1.0"
+date-released: "2026-04-27"
+abstract: >-
+  A defanged audio-steganography research harness for manually demonstrating
+  key-gated image recovery from lossless WAV/FLAC carriers.
+keywords:
+  - audio steganography
+  - DWT
+  - QIM
+  - red team
+  - purple team
+  - DFIR

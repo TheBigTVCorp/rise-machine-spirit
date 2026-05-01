@@ -1,0 +1,21 @@
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+dist/
+build/
+
+# Demo outputs can be regenerated from REPRODUCE.md.
+examples/out/
+CLAUDE_HANDOFF.md
+*.wav
+*.flac
+*.mp3
+*.m4a
+*.ogg
+*.opus
+*.wma
